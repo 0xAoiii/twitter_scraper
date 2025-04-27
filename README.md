@@ -1,6 +1,6 @@
 # Solana Wallet Scraper for X (previously known as a Twitter)
 
-Extract unique Solana wallet addresses from tweet replies — perfect for token airdrops, whitelist building, and Solana community giveaways.
+Extract unique Solana wallet addresses from replies — perfect for token airdrops, giveaways and whitelists.
 
 # Features:
 
