@@ -36,7 +36,7 @@ cd your-repo-name
 
 3. Edit the script with your credentials
 
-Open airdrop_whitelist_scraper.py and set:
+Open twitter_scraper.py and set:
 
 ```
 bearer_token = 'YOUR_TWITTER_BEARER_TOKEN'
