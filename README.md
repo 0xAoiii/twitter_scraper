@@ -1,6 +1,6 @@
-# Solana Wallet Whitelist Scraper for X (previously known as a Twitter)
+# Solana Wallet Scraper for X (previously known as a Twitter)
 
-Extract unique Solana wallet addresses from tweet replies — perfect for token airdrops, whitelist building, and Solana community events!
+Extract unique Solana wallet addresses from tweet replies — perfect for token airdrops, whitelist building, and Solana community giveaways.
 
 # Features:
 
@@ -50,7 +50,7 @@ Tweet ID: It's the number in the tweet URL (https://twitter.com/user/status/TWEE
 
 In the project folder, simply run:
 
-`python airdrop_whitelist_scraper.py`
+`python twitter_scraper.py`
 
 After running, a file named wallet_addresses.csv will be created containing:
 
